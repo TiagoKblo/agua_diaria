@@ -46,6 +46,7 @@ O projeto está organizado da seguinte forma:
 
 - Tiago - [Perfil no GitHub](https://github.com/TiagoKblo)
 - Bruno - [Perfil no GitHub](https://github.com/BrunoOliveira1989)
+- Luís  - [Perfil no GitHub](https://github.com/LuisFelipeSalvarani)
 
 ## Professor
 
