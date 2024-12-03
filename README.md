@@ -26,14 +26,12 @@ O projeto deve obrigatoriamente conter os seguintes itens:
 
 O projeto está organizado da seguinte forma:
 
-| Caminho                  | Descrição                            |
-|--------------------------|--------------------------------------|
-| `lib/`                   | Diretório principal do código fonte  |
+| Caminho                   | Descrição                            |
+|---------------------------|--------------------------------------|
+| `lib/`                    | Diretório principal do código fonte  |
 | `lib/main.dart`           | Ponto de entrada do aplicativo       |
 | `lib/cubit/`              | Lógica de gerenciamento de estado    |
 | `lib/pages/`              | Páginas principais do aplicativo     |
-| `lib/widgets/`            | Componentes reutilizáveis            |
-| `lib/models/`             | Modelos de dados (se houver)         |
 | `pubspec.yaml`            | Gerenciamento de dependências        |
 | `README.md`               | Documentação do projeto              |
 
