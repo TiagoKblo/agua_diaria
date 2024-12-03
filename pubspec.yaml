@@ -1,0 +1,36 @@
+name: agua_diaria
+description: "Aplicativo para monitorar o consumo diário de água."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if você deseja publicar no pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.3 <4.0.0"
+
+dependencies:
+  google_fonts: ^5.0.0
+  flutter:
+    sdk: flutter
+
+  # Ícones adicionais
+  cupertino_icons: ^1.0.8
+
+  # Gerência de estado com Bloc e Cubit
+  flutter_bloc: ^8.1.6
+
+  # Armazenamento local
+  shared_preferences: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Lints para boas práticas no Flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/copo_de_agua.png
